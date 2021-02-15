@@ -14,6 +14,7 @@ Sou estudante de Mestrado em Engenharia Eletrônica e de Computação no Institu
 **Links:**
 * [LinkedIn](https://bit.ly/2MAJOHJ)
 * [Medium](https://bit.ly/3pRdkY6)
+* [Email]():thiagogglopes97@gmail.com
 
 
 ## Projetos:
