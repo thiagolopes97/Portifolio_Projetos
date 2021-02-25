@@ -18,10 +18,10 @@ Sou estudante de Mestrado em Engenharia Eletrônica e de Computação no Institu
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Analisando os dados do Airbnb (Roma,Itália):** https://bit.ly/3cIwPi6
 * **Previsão de consumo de cerveja na cidade de São Paulo:** https://bit.ly/3jSbjJ4
+* **Aplicativo para utilização de Filtro em Imagens:** https://lnkd.in/dHs7Ge7
 
 ---
 
