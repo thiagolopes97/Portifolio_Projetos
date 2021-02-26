@@ -1,30 +1,89 @@
+# Thiago Gonçalves Guimarães Loes :coffee:
+
+<sub>*Engenheiro Físico, Mestrando, Data Scientist e Coffee lover*</sub>
+
+
 [![author](https://img.shields.io/badge/author-thiagolopes97-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="headbanner.png" >
+  <img src="https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/headbanner.png" >
 </p>
 
-# Thiago Gonçalves Guimarães Loes
-<sub>*Estudante de Mestrado* no Instituto Tecnológico de Aeronáutica (ITA)</sub>
+- 🎓 **Engenheiro Físico pela Universidade de São Paulo (EEL - USP).**
 
-Sou estudante de Mestrado em Engenharia Eletrônica e de Computação no Instituto Tecnológico da Aeronáutica (ITA), Bacharel em Engenharia Física pela Escola de Engenharia de Lorena da Universidade de São Paulo (EEL - USP). Durante a graduação e meu trabalho de conclusão tive a oportunidade de aprender um pouco sobre Data Science e Machine Learning. Agora é hora de aprimorar meus conhecimentos através da prática.
+- :computer: **Mestrando em Engenheiro da Computação pelo Instituto Tecnológico de Aeronáutica (ITA).**
 
-**Conhecimento Técnico em:** Matlab, Python, Machine Learning, Neural Network and Cálculo Numérico.
+- 📊 **Tentando impactar a sociedade através da tecnologia.**
 
-**Links:**
-* [LinkedIn](https://bit.ly/2MAJOHJ)
-* [Medium](https://bit.ly/3pRdkY6)
-* [Email]():thiagogglopes97@gmail.com
+- :snake: **Background em: Python, Matlab, Machine Learning, Cálculo Numérico e Estatistica.**
+
+- 🐧 **Usuário Linux Ubuntu.**
 
 
-## Projetos:
+### Contatos:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://bit.ly/2MAJOHJ)
+[<img align="left" alt="daniel.s.amador | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://bit.ly/3pRdkY6)
+[:email:]():thiagogglopes97@gmail.com
+
+
+<br />
+
+### Linguagens e Ferramentas 🔨🔧
+
+<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+<img align="left" alt="PyCharm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" />
+
+<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+
+<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+
+<img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
+
+<img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Ubuntu" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/888/888879.svg?token=exp=1614372733~hmac=b9c47801c1eaae0b4aae76f2fe834e04" />
+
+
+<br />
+<br />
+
+---
+
+ ## Projetos :computer: :
+ 
+<br />
+<br />
 
 * **Analisando os dados do Airbnb (Roma,Itália):** https://bit.ly/3cIwPi6
 * **Previsão de consumo de cerveja na cidade de São Paulo:** https://bit.ly/3jSbjJ4
 * **Aplicativo para utilização de Filtro em Imagens:** https://lnkd.in/dHs7Ge7
 
 ---
+  ## Artigos 📝:
+  
+* **Criando meu primeiro APP com Python**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/criando-meu-primeiro-app-compython-thiago-lopes/)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/criando-meu-primeiro-app-com-python-861ff0bc8bb0)
+* **O algoritmo do Álcool [Part 2] - Cerveja e Machine Learning, um estudo de caso**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/o-algoritmo-do-%C3%A1lcool-part-2-cerveja-e-machine-learning-lopes/)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/o-algoritmo-do-%C3%A1lcool-part-2-12240ef06d82)
+* **O algoritmo do Álcool [Part 1] - Cerveja e Machine Learning, um estudo de caso**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/o-algoritmo-do-%C3%A1lcool-part-1-cerveja-e-machine-learning-lopes/)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/o-algoritmo-do-%C3%A1lcool-part-1-bafe49c4bca2)
+* **Airbnb invade Império Romano - Uma análise dos dados do Airbnb na cidade de Roma**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/airbnb-invade-imp%C3%A9rioromano-uma-an%C3%A1lise-dos-dados-do-thiago-lopes/)
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/airbnb-invade-imp%C3%A9rio-romano-7254d0a3e65b)
+
+  
+
+ ---
+
+ 
+ ![Thiago Lopes's github stats](https://github-readme-stats.vercel.app/api?username=thiagolopes97&show_icons=true&&bg_color=30,e96443,904e95&theme=graywhite)
+ 
 
 
-
-
+<br />
+<br />
+<br />
+<br />
