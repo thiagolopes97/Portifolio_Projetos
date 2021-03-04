@@ -45,8 +45,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Ubuntu" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/888/888879.svg?token=exp=1614372733~hmac=b9c47801c1eaae0b4aae76f2fe834e04" />
-
 
 <br />
 <br />
