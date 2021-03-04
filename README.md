@@ -54,17 +54,19 @@
 ---
 
  ## Projetos :computer: :
- 
+
 <br />
 <br />
 
-* **Analisando os dados do Airbnb (Roma,Itália):** https://bit.ly/3cIwPi6
-* **Previsão de consumo de cerveja na cidade de São Paulo:** https://bit.ly/3jSbjJ4
-* **Aplicativo para utilização de Filtro em Imagens:** https://lnkd.in/dHs7Ge7
+* **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3cIwPi6)
+* **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3jSbjJ4)
+* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7)
 
 ---
   ## Artigos 📝:
-  
+
+* **Visualização de dados com Seaborn - Uma rápida introdução**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/visualiza%C3%A7%C3%A3o-de-dados-comseaborn-uma-r%C3%A1pida-introdu%C3%A7%C3%A3o-thiago-lopes/)
+  [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/visualiza%C3%A7%C3%A3o-de-dados-com-seaborn-e3ad70834581)  
 * **Criando meu primeiro APP com Python**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/criando-meu-primeiro-app-compython-thiago-lopes/)
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/criando-meu-primeiro-app-com-python-861ff0bc8bb0)
 * **O algoritmo do Álcool [Part 2] - Cerveja e Machine Learning, um estudo de caso**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/o-algoritmo-do-%C3%A1lcool-part-2-cerveja-e-machine-learning-lopes/)
@@ -74,13 +76,13 @@
 * **Airbnb invade Império Romano - Uma análise dos dados do Airbnb na cidade de Roma**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/airbnb-invade-imp%C3%A9rioromano-uma-an%C3%A1lise-dos-dados-do-thiago-lopes/)
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/airbnb-invade-imp%C3%A9rio-romano-7254d0a3e65b)
 
-  
+
 
  ---
 
- 
+
  ![Thiago Lopes's github stats](https://github-readme-stats.vercel.app/api?username=thiagolopes97&show_icons=true&&bg_color=30,e96443,904e95&theme=graywhite)
- 
+
 
 
 <br />
