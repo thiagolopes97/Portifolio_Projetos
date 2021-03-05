@@ -1,4 +1,4 @@
-# Thiago Gonçalves Guimarães Loes :coffee:
+# Thiago Gonçalves Guimarães Lopes :coffee:
 
 <sub>*Engenheiro Físico, Mestrando, Data Scientist e Coffee lover*</sub>
 
@@ -45,8 +45,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Ubuntu" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/888/888879.svg?token=exp=1614372733~hmac=b9c47801c1eaae0b4aae76f2fe834e04" />
-
 
 <br />
 <br />
@@ -60,7 +58,7 @@
 
 * **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3cIwPi6)
 * **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3jSbjJ4)
-* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7)
+* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). [Link app](https://bit.ly/3uXJOTF)
 
 ---
   ## Artigos 📝:
