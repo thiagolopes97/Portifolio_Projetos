@@ -6,7 +6,7 @@
 [![author](https://img.shields.io/badge/author-thiagolopes97-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/headbanner.png" >
+  <img src="https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/images/headbanner.png" >
 </p>
 
 - 🎓 **Engenheiro Físico pela Universidade de São Paulo (EEL - USP).**
@@ -43,7 +43,11 @@
 
 <img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 
+<<<<<<< HEAD
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" />
+=======
+<img align="left" alt="Plotly" width="26px" src="https://www.r-project.org/Rlogo.png" />
+>>>>>>> 7cdb22948c674a7075609c6aec130a6fe0afebe7
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -58,9 +62,15 @@
 <br />
 <br />
 
+<<<<<<< HEAD
 * **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3cIwPi6)
 * **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3jSbjJ4)
 * **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). / **Link:** [App](https://bit.ly/3uXJOTF)
+=======
+* **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/projetos/Analisando_os_Dados_do_Airbnb_(Roma%2C_It%C3%A1lia).ipynb)
+* **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/projetos/Reg_Cerveja_SP.ipynb)
+* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). [Link app](https://github.com/thiagolopes97/streamlit_apps/blob/master/parts/filtro.py)
+>>>>>>> 7cdb22948c674a7075609c6aec130a6fe0afebe7
 
 ---
   ## Artigos 📝:
