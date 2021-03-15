@@ -1,4 +1,4 @@
-''# Thiago Gonçalves Guimarães Lopes :coffee:
+# Thiago Gonçalves Guimarães Lopes :coffee:
 
 <sub>*Engenheiro Físico, Mestrando, Data Scientist e Coffee lover*</sub>
 
@@ -43,11 +43,7 @@
 
 <img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 
-<<<<<<< HEAD
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" />
-=======
-<img align="left" alt="Plotly" width="26px" src="https://www.r-project.org/Rlogo.png" />
->>>>>>> 7cdb22948c674a7075609c6aec130a6fe0afebe7
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -62,15 +58,12 @@
 <br />
 <br />
 
-<<<<<<< HEAD
 * **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3cIwPi6)
 * **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3jSbjJ4)
 * **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). / **Link:** [App](https://bit.ly/3uXJOTF)
-=======
 * **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/projetos/Analisando_os_Dados_do_Airbnb_(Roma%2C_It%C3%A1lia).ipynb)
 * **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/projetos/Reg_Cerveja_SP.ipynb)
 * **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). [Link app](https://github.com/thiagolopes97/streamlit_apps/blob/master/parts/filtro.py)
->>>>>>> 7cdb22948c674a7075609c6aec130a6fe0afebe7
 
 ---
   ## Artigos 📝:
@@ -85,8 +78,6 @@
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/o-algoritmo-do-%C3%A1lcool-part-1-bafe49c4bca2)
 * **Airbnb invade Império Romano - Uma análise dos dados do Airbnb na cidade de Roma**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/airbnb-invade-imp%C3%A9rioromano-uma-an%C3%A1lise-dos-dados-do-thiago-lopes/)
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/airbnb-invade-imp%C3%A9rio-romano-7254d0a3e65b)
-
- ---
 
  ---
    ## Curriculum Vitae :man_scientist: :
