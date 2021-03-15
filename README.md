@@ -1,4 +1,4 @@
-# Thiago Gonçalves Guimarães Lopes :coffee:
+''# Thiago Gonçalves Guimarães Lopes :coffee:
 
 <sub>*Engenheiro Físico, Mestrando, Data Scientist e Coffee lover*</sub>
 
@@ -43,6 +43,8 @@
 
 <img align="left" alt="Plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 
+<img align="left" alt="R" width="26px" src="https://www.r-project.org/Rlogo.png" />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
@@ -58,7 +60,7 @@
 
 * **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3cIwPi6)
 * **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3jSbjJ4)
-* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). [Link app](https://bit.ly/3uXJOTF)
+* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). / **Link:** [App](https://bit.ly/3uXJOTF)
 
 ---
   ## Artigos 📝:
@@ -74,9 +76,19 @@
 * **Airbnb invade Império Romano - Uma análise dos dados do Airbnb na cidade de Roma**: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/pulse/airbnb-invade-imp%C3%A9rioromano-uma-an%C3%A1lise-dos-dados-do-thiago-lopes/)
 [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://thiagogglopes97.medium.com/airbnb-invade-imp%C3%A9rio-romano-7254d0a3e65b)
 
-
+ ---
 
  ---
+   ## Curriculum Vitae :man_scientist: :
+
+ * **Currículo Profissional**: [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/curr%C3%ADculo/ThiagoLopes_12_02_21.pdf) / **Atualizado:** 12/02/21
+
+ * **Currículo Lattes**: [<img alt="Lattes" width="57px" src="http://buscatextual.cnpq.br/buscatextual/images/titulo-sistema.png" />](http://lattes.cnpq.br/0999804363551248) / **Atualizado:** 05/02/21
+
+ * **Certificados**: [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/tree/main/certificados)
+
+
+  ---
 
 
  ![Thiago Lopes's github stats](https://github-readme-stats.vercel.app/api?username=thiagolopes97&show_icons=true&&bg_color=30,e96443,904e95&theme=graywhite)
