@@ -88,8 +88,11 @@
 
  * **Certificados**: [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/tree/main/certificados)
 
- * **Badges:**: [<img width="26px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/badges/hadoop-foundations-level-1.png"/>](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/certificados/2021/Hadoop_Foundations_1_Badge.pdf)
+ * **Badges:**:
+  [<img width="26px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/badges/hadoop-foundations-level-1.png"/>](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/certificados/2021/Hadoop_Foundations_1_Badge.pdf)
  [<img width="26px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/badges/spark-level-1.png"/>](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/certificados/2021/Spark_1_Badge.pdf)
+  [<img width="26px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/badges/big-data-foundations-level-1.png"/>](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/certificados/2021/Big_Data_Foundations_1.pdf)
+   [<img width="26px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/badges/data-science-methodologies.png"/>](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/certificados/2021/Data_Science_Methodologies.pdf)
 
 
   ---
