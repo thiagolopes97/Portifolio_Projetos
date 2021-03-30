@@ -1,4 +1,4 @@
-# Thiago Gonçalves Guimarães Lopes <img alt="python" width="54px" src="https://www.flaticon.com/svg/vstatic/svg/1017/1017138.svg?token=exp=1617144681~hmac=f45784e3d598ec09a148a46d8ca4c6e5" />
+# Thiago Gonçalves Guimarães Lopes <img alt="python" width="35px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/flat_icons/chocolate.svg" />
 
 <sub>*Engenheiro Físico, Mestrando, Data Scientist e Coffee lover*</sub>
 
@@ -22,7 +22,7 @@
 
 ### Contatos:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://bit.ly/2MAJOHJ)
+[<img alt="python" width="35px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/flat_icons/linkedin.svg" />](https://bit.ly/2MAJOHJ)
 [<img align="left" alt="daniel.s.amador | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://bit.ly/3pRdkY6)
 [:email:]():thiagogglopes97@gmail.com
 
