@@ -1,4 +1,4 @@
-# Thiago Gonçalves Guimarães Lopes :coffee:
+# Thiago Gonçalves Guimarães Lopes <img alt="python" width="54px" src="https://www.flaticon.com/svg/vstatic/svg/1017/1017138.svg?token=exp=1617144681~hmac=f45784e3d598ec09a148a46d8ca4c6e5" />
 
 <sub>*Engenheiro Físico, Mestrando, Data Scientist e Coffee lover*</sub>
 
