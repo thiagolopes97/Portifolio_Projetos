@@ -22,12 +22,13 @@
 
 ### Contatos:
 
-[<img alt="python" width="35px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/flat_icons/linkedin.svg" />](https://bit.ly/2MAJOHJ)
-[<img align="left" alt="daniel.s.amador | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://bit.ly/3pRdkY6)
+[<img alt="python" width="22px" src="https://raw.githubusercontent.com/thiagolopes97/Portifolio_Projetos/main/images/flat_icons/linkedin.svg" />](https://bit.ly/2MAJOHJ)
+[<img alt="daniel.s.amador | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://bit.ly/3pRdkY6)
 [:email:]():thiagogglopes97@gmail.com
-
-
 <br />
+
+
+---
 
 ### Linguagens e Ferramentas 🔨🔧
 
@@ -61,9 +62,6 @@
 * **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3cIwPi6)
 * **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/3jSbjJ4)
 * **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). / **Link:** [App](https://bit.ly/3uXJOTF)
-* **Analisando os dados do Airbnb (Roma,Itália):** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/projetos/Analisando_os_Dados_do_Airbnb_(Roma%2C_It%C3%A1lia).ipynb)
-* **Previsão de consumo de cerveja na cidade de São Paulo:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/thiagolopes97/Portifolio_Projetos/blob/main/projetos/Reg_Cerveja_SP.ipynb)
-* **Aplicativo para utilização de Filtro em Imagens:** [<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://lnkd.in/dHs7Ge7). [Link app](https://github.com/thiagolopes97/streamlit_apps/blob/master/parts/filtro.py)
 
 ---
   ## Artigos 📝:
@@ -100,7 +98,7 @@
 
  ![Thiago Lopes's github stats](https://github-readme-stats.vercel.app/api?username=thiagolopes97&show_icons=true&&bg_color=30,e96443,904e95&theme=graywhite)
 
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolopes97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
